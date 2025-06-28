@@ -32,6 +32,8 @@ Handles real-time input of dysarthric .wav files
 **
 **Dataset****
 
+To train the acoustic model to learn the distribution of healthy phonemes, we use the Common Phone dataset and the L2-ARCTIC dataset
+
 Healthy speech should follow the structure:
 
 dataset/
