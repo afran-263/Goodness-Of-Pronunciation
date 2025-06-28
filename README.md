@@ -16,7 +16,8 @@ id2phone.json — Mapping from numeric phoneme IDs to phoneme labels.
 phone2id.json — Reverse mapping from phoneme labels to numeric IDs.
 
 
-****Features****
+**
+**Features****
 
 Phoneme Classifier using Wav2Vec2-based features
 
@@ -28,7 +29,8 @@ Additional metrics: Entropy, Logit Margin, Max Logit, and Confidence Margin
 
 Handles real-time input of dysarthric .wav files
 
-****Dataset****
+**
+**Dataset****
 
 Healthy speech should follow the structure:
 
