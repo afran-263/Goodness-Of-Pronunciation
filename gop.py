@@ -9,11 +9,8 @@ import subprocess
 import torchaudio
 import numpy as np
 import torch.nn as nn
-import sounddevice as sd
 import torch.optim as optim
-from pydub import AudioSegment
 from collections import Counter
-from scipy.io.wavfile import write
 from torch.utils.data import Dataset, DataLoader
 from transformers import Wav2Vec2Processor, Wav2Vec2Model
 
